@@ -1,0 +1,3 @@
+# ProPresenter Sync: хранить файлы байт-в-байт, .pro — бинарный формат
+* -text
+*.pro binary

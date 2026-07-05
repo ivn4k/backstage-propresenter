@@ -1,0 +1,19 @@
+# >>> ProPresenter Sync — управляемый блок, не редактировать >>>
+/*
+!/.gitignore
+!/.gitattributes
+!/Libraries/
+!/Playlists/
+/Libraries/Library
+!/Libraries/Library/
+/Libraries/LibraryData
+!/Libraries/LibraryData/
+/Playlists/*
+!/Playlists/Library
+!/Playlists/Templates/
+*.sync-conflict-*
+.stfolder/
+Thumbs.db
+desktop.ini
+.DS_Store
+# <<< ProPresenter Sync — конец управляемого блока <<<
